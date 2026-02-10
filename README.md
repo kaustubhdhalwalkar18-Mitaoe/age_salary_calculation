@@ -19,3 +19,10 @@ This Python program calculates:
 ## ▶️ How to Run
 ```bash
 python age_salary_calculation.py
+Enter birth date (DD-MM-YYYY): 15-08-2002
+Enter salary (in local currency): 50000
+Enter conversion rate to dollars: 0.012
+#🛠 Example
+Age: 22 years
+Salary in Dollars: $600.00
+
